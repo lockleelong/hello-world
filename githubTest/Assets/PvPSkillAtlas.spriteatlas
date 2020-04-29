@@ -31,7 +31,7 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 5611612b5f9b58644b9dee257347608e, type: 3}
-    totalSpriteSurfaceArea: 357435
+    totalSpriteSurfaceArea: 377884
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
@@ -45,6 +45,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: a314a6f48de1a634e8acacc5baf8bc18, type: 3}
   - {fileID: 21300000, guid: e1f99855342af1e428c3bb2ac325e2f4, type: 3}
   - {fileID: 21300000, guid: efb64db6b9c20714da28739ecf39e334, type: 3}
+  - {fileID: 21300000, guid: 9854e3f6d6f32364f8c1443ae410f880, type: 3}
   - {fileID: 21300000, guid: c3c2af9704203404bb821ed4f543fb7e, type: 3}
   - {fileID: 21300000, guid: 1d215248a6c24a84c8ff56d4e7857cac, type: 3}
   - {fileID: 21300000, guid: 349b5109fbbcf974e84598c72604ccfc, type: 3}
@@ -64,6 +65,7 @@ SpriteAtlas:
   - RocketMan
   - Conspiration
   - ItsJustAScratch
+  - RockOn
   - EtTuBrute
   - NewBricksWelcome
   - Royalty
