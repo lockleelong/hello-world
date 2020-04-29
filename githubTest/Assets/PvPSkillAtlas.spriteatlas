@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PvPSkillAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5611612b5f9b58644b9dee257347608e, type: 3}
+    totalSpriteSurfaceArea: 357435
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0441e8c1d8487a847884c307f20e3a12, type: 3}
+  - {fileID: 21300000, guid: 74f7fbb217e6c5d4ab7062f3d4da7556, type: 3}
+  - {fileID: 21300000, guid: e96a881325922744b84b1a67f0a97306, type: 3}
+  - {fileID: 21300000, guid: 71aa2f633c428cf45be4a1fd43088ecc, type: 3}
+  - {fileID: 21300000, guid: c4a6c0733912b7e41b7abe00eaebe3c4, type: 3}
+  - {fileID: 21300000, guid: e2ce69a48f8cf464387e930ac7a879a1, type: 3}
+  - {fileID: 21300000, guid: 838066d4bb2eb864a89b25c5c5e8e9ab, type: 3}
+  - {fileID: 21300000, guid: a314a6f48de1a634e8acacc5baf8bc18, type: 3}
+  - {fileID: 21300000, guid: e1f99855342af1e428c3bb2ac325e2f4, type: 3}
+  - {fileID: 21300000, guid: efb64db6b9c20714da28739ecf39e334, type: 3}
+  - {fileID: 21300000, guid: c3c2af9704203404bb821ed4f543fb7e, type: 3}
+  - {fileID: 21300000, guid: 1d215248a6c24a84c8ff56d4e7857cac, type: 3}
+  - {fileID: 21300000, guid: 349b5109fbbcf974e84598c72604ccfc, type: 3}
+  - {fileID: 21300000, guid: bb79e5091d7797c4d9068aeb4183885a, type: 3}
+  - {fileID: 21300000, guid: 25a20e29f8361264286ac9985076af41, type: 3}
+  - {fileID: 21300000, guid: f94d604affbeb334bbc5cbf775078bdf, type: 3}
+  - {fileID: 21300000, guid: 9c879f1bb0d9cb44cbff011a0911c9e7, type: 3}
+  - {fileID: 21300000, guid: 456c77cd9d58d9a4798736bd805d64b7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - WreckingBall
+  - FakeBlock
+  - HackerAttack
+  - BabyBaby
+  - Nap
+  - Alleluja
+  - PushingABorder
+  - RocketMan
+  - Conspiration
+  - ItsJustAScratch
+  - EtTuBrute
+  - NewBricksWelcome
+  - Royalty
+  - WoWOverload
+  - DragonFist
+  - HastaLaVista
+  - GoldenBall
+  - Meditation
+  m_Tag: PvPSkillAtlas
+  m_IsVariant: 0
